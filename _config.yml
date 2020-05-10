@@ -94,9 +94,3 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: ocean
-
-# Hexo-generator-search
-search:
-  path: search.xml
-  field: post
-  format: html
