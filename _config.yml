@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: haixiang7c6`s blog
+subtitle: 'haixiang7c6的博客'
 description: ''
 keywords:
-author: John Doe
+author: haixiang7c6
 language: en
 timezone: ''
 
@@ -99,3 +99,12 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+suka_theme:
+  search:
+    enable: true
+    path: search.json
+    field: post # Page | Post | All. Default post
+  prism:
+    enable: false
+    line_number: true
+    theme: default
