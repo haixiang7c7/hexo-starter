@@ -1,3 +1,7 @@
+#custom
+*.iml
+.idea/
+
 .DS_Store
 Thumbs.db
 db.json
