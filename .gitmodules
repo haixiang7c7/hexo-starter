@@ -1,0 +1,3 @@
+[submodule "themes/ocean"]
+	path = themes/ocean
+	url = git@github.com:haixiang7c6/hexo-theme-ocean.git
