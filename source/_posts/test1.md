@@ -5,5 +5,5 @@
 正文。。。
 
 haixiang7c6
-<!–more–>
+<!-- more -->
 good !
