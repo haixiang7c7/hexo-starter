@@ -4,11 +4,11 @@
 
 # Site
 title: haixiang7c6`s blog
-subtitle: '陈海翔的博客'
+subtitle: '仰望星空 脚踏实地'
 description: ''
 keywords:
 author: haixiang7c6
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -94,3 +94,9 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: ocean
+
+#search
+search:
+  path: search.xml
+  field: post
+  content: true
